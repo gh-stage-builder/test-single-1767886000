@@ -902,10 +902,10 @@
           "fields": [
             {
               "id": "title",
-              "name": "Hero Title",
+              "name": "h1 Title",
               "type": "text",
               "description": "The main hero section title",
-              "default": "Welcome Bonus"
+              "default": "H1 title about casino"
             },
             {
               "id": "textDesktop",
