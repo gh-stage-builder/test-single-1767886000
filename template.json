@@ -559,7 +559,7 @@
         {
           "id": "main-bg",
           "name": "Фон 2",
-          "description": "Для блоков Top Casino, Bonuses...",
+          "description": "Для блоков Top Casinos, Bonuses...",
           "type": "color",
           "default": "#f3f4f1"
         },
@@ -991,21 +991,21 @@
         },
         {
           "id": "topCasino",
-          "name": "Top Casino Section",
+          "name": "Top Casinos Section",
           "fields": [
             {
               "id": "topCasinoButtonText",
-              "name": "Top Casino Button Text",
+              "name": "Top Casinos Button Text",
               "type": "text",
-              "description": "Text for top casino buttons",
+              "description": "Text for top casinos buttons",
               "default": "Claim Bonus"
             },
             {
               "id": "title",
               "name": "Section Title",
               "type": "text",
-              "description": "The title of the top casino section",
-              "default": "Top Casino"
+              "description": "The title of the top casinos section",
+              "default": "Top Casinos"
             },
             {
               "id": "allCasino",
