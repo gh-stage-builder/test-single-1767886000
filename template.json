@@ -886,13 +886,6 @@
               "type": "image",
               "description": "The favicon",
               "default": "https://paf-casino-online.com/favicon.ico"
-            },
-            {
-              "id": "keywords",
-              "name": "Keywords",
-              "type": "text",
-              "description": "The page keywords",
-              "default": "casino, online casino, gambling, slots, table games"
             }
           ]
         },
