@@ -615,7 +615,13 @@
         },
         {
           "id": "button-text",
-          "name": "Текст кнопки",
+          "name": "Текст вторичной кнопки",
+          "type": "color",
+          "default": "#ffffff"
+        },
+        {
+          "id": "main-button-text",
+          "name": "Текст ocновной кнопки",
           "type": "color",
           "default": "#ffffff"
         },
